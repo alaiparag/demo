@@ -26,5 +26,10 @@ public class TC_dimenionsofWebElement extends baseClass {
 		
 		System.out.println(dim.dimesions().getSize());
 		System.out.println("java");
+		
+		
+		System.out.println("jsggva");
+		System.out.println("jagggva");
+		System.out.println("jaggva");
 	}
 }

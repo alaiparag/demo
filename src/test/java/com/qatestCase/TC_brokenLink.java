@@ -26,6 +26,8 @@ public class TC_brokenLink extends baseClass {
 		ExtentSparkReporter reporter= new ExtentSparkReporter(path);
 		reporter.config().setReportName("Automation Result");
 		reporter.config().setDocumentTitle("Test Result");
+		System.out.println("wgwgjava");
+		System.out.println("454542java");
 		
 		 extent=new ExtentReports();
 		extent.attachReporter(reporter);
