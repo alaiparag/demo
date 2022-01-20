@@ -21,6 +21,7 @@ public class TC_dimenionsofWebElement extends baseClass {
 	public void dimensions() {
 		htWidthofWebElement dim = new htWidthofWebElement(driver);
 		System.out.println(dim.dimesions().getRect().getDimension().getHeight());
+		System.out.println(dim.dimesions().getRect().getWidth()); 
 		
 	}
 }
