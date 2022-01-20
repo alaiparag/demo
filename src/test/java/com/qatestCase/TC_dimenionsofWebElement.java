@@ -23,5 +23,8 @@ public class TC_dimenionsofWebElement extends baseClass {
 		System.out.println(dim.dimesions().getRect().getDimension().getHeight());
 		System.out.println(dim.dimesions().getRect().getWidth()); 
 		System.out.println(dim.dimesions().getText());
+		
+		System.out.println(dim.dimesions().getSize());
+		System.out.println("java");
 	}
 }
